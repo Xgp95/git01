@@ -2,7 +2,7 @@ hello git hello world   11111
 hello git hello world	22222
 hello git hello world	33333
 hello git hello world	update by master
-hello git hello world
+hello git hello world	hot-fix update
 hello git hello world
 hello git hello world
 hello git hello world
