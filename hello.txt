@@ -2,8 +2,8 @@
 2.hello git hello world	22222
 3.hello git hello world	33333
 4.hello git hello world	update by master
-5.hello git hello world	hot-fix update
-6.hello git hello world
+5.hello git hello world	hot-fix update1
+6.hello git hello world	hot-fix update2
 7.hello git hello world
 8.hello git hello world
 9.hello git hello world
