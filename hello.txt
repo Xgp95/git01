@@ -4,7 +4,7 @@
 4.hello git hello world	update by master
 5.hello git hello world	hot-fix update1
 6.hello git hello world	hot-fix update2
-7.hello git hello world
+7.hello git hello world	update1 by master
 8.hello git hello world
 9.hello git hello world
 10.hello git hello world
